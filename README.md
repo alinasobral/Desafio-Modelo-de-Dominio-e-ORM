@@ -9,7 +9,7 @@ Projeto desenvolvido como parte do curso da DevSuperior (Prof. Nélio Alves), co
 - H2 Database
 - Maven
 
-- ## 📚 Descrição do projeto
+## 📚 Descrição do projeto
 
 O sistema simula o gerenciamento de participantes em atividades de um evento acadêmico, como cursos e oficinas.
 
